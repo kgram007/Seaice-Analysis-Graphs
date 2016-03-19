@@ -1,0 +1,9 @@
+OUTPUT
+-------------
+
+
+Degree Mean = 24.913980
+Clustering Coeff (G_r) =	 0.569309
+Clustering Coeff (G_rand) = 0.000744
+Characteristic Path Length (L_r) =	 67.722916
+Characteristic Path Length (L_rand) = 3.240120
